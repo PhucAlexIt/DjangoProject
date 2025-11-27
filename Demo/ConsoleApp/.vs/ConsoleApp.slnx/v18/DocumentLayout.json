@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\ThuMucCuaTui\\Programmer\\MobileApp\\Demo\\ConsoleApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{03596A6E-324D-49B2-8618-7EE88ED7BF4A}|ConsoleApp.csproj|d:\\thumuccuatui\\programmer\\mobileapp\\demo\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03596A6E-324D-49B2-8618-7EE88ED7BF4A}|ConsoleApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1F7F307B-5287-46F7-AFE1-9044D8AA5CE3}|ConsoleApp.csproj|d:\\thumuccuatui\\programmer\\mobileapp\\demo\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7F307B-5287-46F7-AFE1-9044D8AA5CE3}|ConsoleApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T01:32:39.02Z",
+              "WhenOpened": "2025-11-27T11:25:48.61Z",
               "EditorCaption": ""
             }
           ]
